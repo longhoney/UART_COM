@@ -1,0 +1,5 @@
+Tham khảo chính: bài kết nối wifi của ESP32 = MicroPython (anh Khang)
+Sườn bài code chính: HTTPSRequest (ArduinoIDE, File - Example - ESP8266WiFi - HTTPSRequest)
+	Mượn code kết nối wifi
+	Mượn code kết nối API Thingspeak từ bài của anh Khang --> dịch sang ngôn ngữ C
+[ChatGPT]: https://chatgpt.com/share/6869b57a-c358-8004-9ab9-e02a37122648
